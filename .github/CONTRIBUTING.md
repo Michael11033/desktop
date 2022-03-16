@@ -33,7 +33,11 @@ Please report unacceptable behavior to [opensource+desktop@github.com](mailto:op
 
 ### The Roadmap
 
+<<<<<<< HEAD
 We are working on a roadmap you can read [here](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
+=======
+You can read our roadmap [here](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
+>>>>>>> origin/kuychaco-update-contributing-doc
 The immediate milestones are more detailed, and the latter milestones are more
 fuzzy and subject to change.
 
